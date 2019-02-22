@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-wikimedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bootstrap-wikimedia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingIsFood/wikiibadanbootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://CodingIsFood.github.io/wikiibadanbootstrap", 
+  "bugs": {
+    "url": "https://github.com/CodingIsFood/wikiibadanbootstrap/issues"
+  },
+  "homepage": "https://github.com/CodingIsFood/wikiibadanbootstrap#readme",
+  "dependencies": {
+    "g": "^2.0.1",
+    "gh-pages": "^2.0.1"
+  }
+}
